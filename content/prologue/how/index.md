@@ -12,6 +12,7 @@ menu:
 weight: 102
 toc: true
 ---
+## Kerberos Agent
 
 A [Kerberos Agent](/opensource/first-things-first/), is a piece of software that is responsible for monitoring a single camera stream. It contains two pieces: a front-end and a back-end. The back-end processes the video stream, applies computer vision techniques, makes recordings and takes actions (for example sending notifications). The front-end allows you to review recordings, and configure specific settings for the back-end.
 
